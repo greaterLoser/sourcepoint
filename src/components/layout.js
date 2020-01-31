@@ -17,14 +17,14 @@ const Layout = ({ children }) => {
       <div
         style={{
           margin: `0 auto`,
-          maxWidth: 960,
+          maxWidth: "100vw",
           padding: `0px 1.0875rem 1.45rem`,
           paddingTop: 0,
+	  paddingLeft: "2px",
+	  paddingRight: "2px"
         }}
       >
-        <main style={{ height: '100vh', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>{children}</main>
-        <footer>
-        </footer>
+        <main>{children}</main>
       </div>
     </>
   )
