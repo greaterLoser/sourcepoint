@@ -4,7 +4,7 @@
 #The purpose of this script is to eventually be used in conjunction with the other processing scripts to generate pages with the source videos contained therin. Right now it is setup using Netu.tv as the video host.
 #-------------
 
-
+rm ../src/pages/id-*.js
 
 #-----
 # Step 1: Create array from csv file with all the video links

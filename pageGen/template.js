@@ -1,21 +1,20 @@
 import React from "react"
 let contStyle =
-	{
-		display: "flex",
-		justifyContent: "center",
-		alignItems: "center",
-		width: "100%",
-		height: "100%"
-	 };
+	{position: "relative",
+	overflow: "hidden",
+	paddingTop: "56.25%"
+	};
+
 let iframeStyle =
 	{
-	 position: "absolute",
-	 top: "0",
-	 left: "0",
-	 width: "100%",
-	 height: "100%",
-	 border: "0",
+	position: "absolute",
+	top: "0",
+	left: "0",
+	width: "100%",
+	height: "75%",
+	border: "0",
 	};
+
 
 const SecondPage = () => (
     <div style={contStyle}>
