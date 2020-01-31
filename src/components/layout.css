@@ -3,13 +3,13 @@ html {
   font-family: 'Cinzel', serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
-  background: #1c1c1c;
+  background: black;
 }
 body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: #1c1c1c;
+  background: black;
 }
 article,
 aside,
@@ -65,7 +65,7 @@ dfn {
 }
 div,
 iframe,{
-  background: #1c1c1c;
+  background: black;
  }
 h1 {
   font-size: 2em;
