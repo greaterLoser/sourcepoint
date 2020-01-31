@@ -2,7 +2,8 @@ import React from "react"
 let contStyle =
 	{position: "relative",
 	overflow: "hidden",
-	paddingTop: "56.25%"
+	paddingTop: "56.25%",
+	backgroung: "black"
 	};
 
 let iframeStyle =
@@ -13,6 +14,7 @@ let iframeStyle =
 	width: "100%",
 	height: "75%",
 	border: "0",
+	backgroung: "black"
 	};
 
 
