@@ -30,8 +30,10 @@ exports.components = {
   "component---src-pages-id-v-uh-1-ai-9-tr-etu-vz-b-6-dl-vk-s-whs-uersqt-09-js": hot(preferDefault(require("/home/aco/arcana/desarice/1siteCanvas/src/pages/id-VUh1ai9TREtuVzB6dlVkSWhsUERSQT09.js"))),
   "component---src-pages-id-v-xp-pe-dzk-mn-fa-qu-9-k-um-m-1-ml-nkq-vo-3-dz-09-js": hot(preferDefault(require("/home/aco/arcana/desarice/1siteCanvas/src/pages/id-VXpPeDZKMnFaQU9kUmM1MlNKQVo3dz09.js"))),
   "component---src-pages-id-y-1-nma-wn-4-nh-ax-rk-z-6-r-ul-yb-gq-5-n-3-rxdz-09-js": hot(preferDefault(require("/home/aco/arcana/desarice/1siteCanvas/src/pages/id-Y1NmaWN4NHAxRkZ6RUlYbGQ5N3Rxdz09.js"))),
+  "component---src-pages-id-ywr-bcithb-tkx-sm-v-3-l-2-d-r-zmw-2-o-st-fut-09-js": hot(preferDefault(require("/home/aco/arcana/desarice/1siteCanvas/src/pages/id-YWRBcithbTkxSmV3L2dRZmw2OStFUT09.js"))),
   "component---src-pages-id-z-1-nyemoy-mj-r-3-suzg-mkxoem-j-5-t-3-h-mut-09-js": hot(preferDefault(require("/home/aco/arcana/desarice/1siteCanvas/src/pages/id-Z1NyemoyMjR3SUZGMkxoemJ5T3hMUT09.js"))),
   "component---src-pages-id-zezhu-3-b-3-el-y-5-uvf-ba-tkyc-wsre-u-jz-zz-09-js": hot(preferDefault(require("/home/aco/arcana/desarice/1siteCanvas/src/pages/id-ZEZHU3B3elY5UVFBaTkycWsreUJzZz09.js"))),
-  "component---src-pages-index-js": hot(preferDefault(require("/home/aco/arcana/desarice/1siteCanvas/src/pages/index.js")))
+  "component---src-pages-index-js": hot(preferDefault(require("/home/aco/arcana/desarice/1siteCanvas/src/pages/index.js"))),
+  "component---src-pages-test-js": hot(preferDefault(require("/home/aco/arcana/desarice/1siteCanvas/src/pages/test.js")))
 }
 
