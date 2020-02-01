@@ -18,13 +18,14 @@ const Layout = ({ children }) => {
         style={{
           margin: `0 auto`,
           maxWidth: "100vw",
+	  maxHeight: "100vh",
           padding: `0px 1.0875rem 1.45rem`,
           paddingTop: 0,
 	  paddingLeft: "2px",
 	  paddingRight: "2px"
         }}
       >
-        <main>{children}</main>
+        {children}
       </div>
     </>
   )
