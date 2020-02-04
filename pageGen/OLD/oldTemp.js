@@ -24,7 +24,7 @@ let iframeStyle =
 const SecondPage = () => (
   <Layout>
     <div style={contStyle}>
-      <iframe title="Sugma" style={iframeStyle} src="https://hqq.tv/player/embed_player.php?vid=KzUrWGhDajREbjYvampjVlkxNVI2dz09&autoplay=no" allowfullscreen>></iframe>
+      <iframe title="Sugma" style={iframeStyle} src="REPLACETHISSHIT" allowfullscreen>></iframe>
     </div>
   </Layout>
 )

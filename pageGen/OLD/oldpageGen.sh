@@ -17,7 +17,9 @@ readarray -t URLS < linklist.csv
 # Step 2.2: Create pagename from video identifier within url
 #-----
 for LINK in ${URLS[*]}; do 
-	sed "s,REPLACETHISSHIT,$LINK," template.js > "id-$LINK.js"
+	PREPLINK=$(echo $LINK | sed 's,\&,\\\&,')
+	PAGENAME=$(echo $LINK | cut -d= -f2 | cut -d\& -f1)
+	sed "s,REPLACETHISSHIT,$PREPLINK," template.js > "id-$PAGENAME.js"
 done
 
 
